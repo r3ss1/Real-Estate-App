@@ -55,7 +55,7 @@
                     <div style="background-color: #4caf50; width: 2px; height: 20px; border-radius: 10px; margin: 0 auto; text-align: center;"></div>
                     2%
                 </td>
-                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;"> 4 hours </td>
+                <td style="padding: 12px; font-size: 16px; color: #336699; font-weight: bold; text-align: center;"> 3 hours </td>
             </tr>
         </tbody>
     </table>
